@@ -1,5 +1,0 @@
-learn git
-
-begin
-
-how?
